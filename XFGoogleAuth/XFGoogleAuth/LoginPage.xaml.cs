@@ -6,7 +6,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
-using XFGoogleAuth.Services;
 
 namespace XFGoogleAuth
 {
